@@ -7,7 +7,6 @@ class Solution:
                 mini=x[0]
             if x[-1]>maxi:
                 maxi=x[-1]
-        
         return abs(maxi-mini)
 
 
